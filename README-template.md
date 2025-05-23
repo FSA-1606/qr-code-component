@@ -1,49 +1,49 @@
-# Componente de QR Code – Desafio Frontend Mentor
+# Componente de QR Code
 
-Esta é uma solução para o [desafio de componente de QR Code no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
+Este é um projeto desenvolvido como solução para o [desafio QR Code Component no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). O desafio ajuda a praticar habilidades de HTML e CSS construindo um componente simples e responsivo.
 
-## 🔗 Link do projeto
+## 🔗 Links
 
-- Repositório: [https://github.com/FSA-1606/mentor_qrcode](https://github.com/FSA-1606/qr-code-component)
-- Site publicado: [https://fsa-1606.github.io/mentor_qrcode/](https://fsa-1606.github.io/mentor_qrcode/)
+- Repositório no GitHub: [https://github.com/FSA-1606/qr-code-component](https://github.com/FSA-1606/qr-code-component)
+- Página ao vivo (GitHub Pages): [https://fsa-1606.github.io/qr-code-component/](https://fsa-1606.github.io/qr-code-component/)
 
-## 🖼️ Captura de tela
+## 🖼️ Captura de Tela
 
-![Captura de Tela](./images/screenshot.jpg)
+![screenshot](./images/screenshot.jpg)
 
-## 🧠 O que eu aprendi
+## 🛠️ Tecnologias Utilizadas
 
-Este projeto me ajudou a praticar os seguintes conceitos:
+- HTML5 semântico
+- CSS3 com propriedades personalizadas
+- Flexbox
+- Mobile-first design
 
-- Estrutura básica de HTML5 semântica
-- Estilização com CSS puro
-- Posicionamento com Flexbox
-- Responsividade simples com `viewport`
-- Organização de pastas e arquivos para deploy com GitHub Pages
+## 🚀 O que eu aprendi
 
-## 🔨 Construído com
+Este projeto reforçou os seguintes conceitos:
 
-- HTML5
-- CSS3
-- Google Fonts (Outfit)
-- Layout mobile-first
-- GitHub Pages para deploy
+- Estruturação semântica de páginas HTML
+- Uso de Flexbox para centralizar e alinhar conteúdo
+- Princípios de design responsivo
+- Organização de projetos simples para publicação via GitHub Pages
 
-## 🚀 Desenvolvimento futuro
+## 🔄 Próximos Passos
 
-Pretendo continuar praticando desafios do Frontend Mentor, com foco em layouts mais complexos e integração com JavaScript e APIs.
+- Adicionar animações leves para melhorar a experiência do usuário
+- Implementar variantes de temas (dark/light)
+- Converter o layout para uso com um framework (React ou Vue)
 
-## 📚 Recursos úteis
+## 📚 Recursos Úteis
 
-- [Guia oficial do HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Guia oficial do CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Guia do Markdown](https://www.markdownguide.org/)
+- [Guia de CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Guia de Boas Práticas de HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Guia Markdown](https://www.markdownguide.org/)
 
-## 👤 Autor
+## 👨‍💻 Autor
 
-- GitHub – [Fernando Andrade](https://github.com/FSA-1606)
-- Frontend Mentor – [@FSA-1606](https://www.frontendmentor.io/profile/FSA-1606)
+- GitHub - [@FSA-1606](https://github.com/FSA-1606/qr-code-component)
+- Frontend Mentor - [@FSA-1606](https://www.frontendmentor.io/profile/FSA-1606)
 
 ## 🙌 Agradecimentos
 
-Desafio fornecido por [Frontend Mentor](https://www.frontendmentor.io). Código desenvolvido por Fernando Andrade.
+Desafio fornecido por [Frontend Mentor](https://www.frontendmentor.io). Uma excelente forma de melhorar suas habilidades de front-end com projetos reais.
